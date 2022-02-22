@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "username": "이름1",
+        "email": "TEST1@gmail.com",
+        "example": "TEST1",
+        "active": true
+    },
+    {
+        "id": 2,
+        "username": "이름2",
+        "email": "TEST2@gmail.com",
+        "example": "TEST2",
+        "active": false
+    },
+    {
+        "id": 3,
+        "username": "이름3",
+        "email": "TEST3@gmail.com",
+        "example": "TEST3",
+        "active": false
+    }
+]
